@@ -63,7 +63,7 @@ function Tables() {
                   <MDTypography variant="h6" color="white">
                     Seasonal Tickets
                   </MDTypography>
-                  <MDButton variant="gradient" color="success" onClick={() => {}}>
+                  <MDButton variant="gradient" color="primary" onClick={() => {}}>
                     Renew All Seasonal Tickets
                   </MDButton>
                 </div>
